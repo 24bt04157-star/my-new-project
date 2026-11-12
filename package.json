@@ -1,0 +1,12 @@
+{
+  "name": "thirsty-dreamer-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thirsty Dreamer website with Netlify contact email function",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
