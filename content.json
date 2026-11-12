@@ -1,0 +1,337 @@
+{
+  "copy": {
+    "hero": {
+      "kicker": "NEVER STOP DREAMING",
+      "titleStart": "Never Stop",
+      "titleAccent": "Dreaming.",
+      "intro": "A personal journal of cocktails, fermentation, hospitality, sustainability & the hard work of turning dreams into real drinks and real stories.",
+      "meta": [
+        "Toronto",
+        "Hospitality",
+        "Fermentation",
+        "Dreams"
+      ],
+      "primaryCta": "Read Massi's story",
+      "secondaryCta": "Get in touch",
+      "scrollLabel": "Scroll"
+    },
+    "about": {
+      "eyebrow": "The Person Behind the Pour",
+      "title": "Massi doesn't just make drinks. He builds experiences people remember.",
+      "paragraphs": [
+        "Massi’s hospitality journey began in Rome, making cappuccinos at 14 and aperitivi at 15. At 18, he moved to the UK, became a bar manager in Manchester and competed in cocktails.",
+        "Now co-owner of Toronto’s Mother Cocktail Bar, he champions fermentation and warm hospitality. He was Canada’s World Class Bartender (2022), ICCO’s Best Cocktail Bartender (2023), and coached Canada to World Class titles in 2023 and 2024."
+      ],
+      "quote": "“I train like I’ve never won, and I compete like I’ve never lost.” — Eileen Gu",
+      "tags": [
+        "Bartender",
+        "Entrepreneur",
+        "Hospitality Creative",
+        "Fermentation"
+      ],
+      "summary": "From Rome to Manchester to Toronto, Massi built his career around cocktails, fermentation and hospitality. He now co-owns Mother Cocktail Bar.",
+      "readMore": "Read the full story",
+      "displayQuote": "We shouldn't just make drinks, but build rooms, experiences for people to remember."
+    },
+    "journal": {
+      "eyebrow": "The Blog",
+      "titleStart": "The Dream Come True",
+      "titleAccent": "Journal",
+      "intro": "Notes from behind the bar — recipes, ferments, half-formed ideas, and the honest business of building something worth raising a glass to. Updated whenever the dream has something to say.",
+      "signupLabel": "A note from behind the bar",
+      "signupCopy": "Occasional stories on hospitality, fermentation, and the people who make it meaningful.",
+      "signupButton": "Join the journal",
+      "signupConsent": "I agree to receive occasional Thirsty Dreamer emails.",
+      "readMore": "Read the journal →",
+      "cards": [
+        {
+          "category": "Sustainability",
+          "title": "Sustain Yourself First to Be Sustainable",
+          "storyId": "sustainability"
+        },
+        {
+          "category": "The Journey",
+          "title": "From a Dream to Reality",
+          "storyId": "about"
+        },
+        {
+          "category": "Fermentation",
+          "title": "Why Fermentation Is a Way of Thinking",
+          "storyId": "fermentation"
+        },
+        {
+          "category": "Hospitality",
+          "title": "The Future of Hospitality Is Human",
+          "storyId": "mother"
+        }
+      ]
+    },
+    "essays": [
+      {
+        "id": "fermentation",
+        "category": "Fermentation",
+        "title": "A way of life",
+        "paragraphs": [
+          "Many people see fermentation as a preserving technique our ancestors developed to survive. I see it as much more: a way of life that deepens our understanding of how food and drink are made.",
+          "There is something incredible about creating from scratch, with love and care at every step. Think of bread, koji, or kombucha: simple grains, rice, or sweet tea become warm loaves, layers of flavour, and lively bubbles. That process sparks my curiosity—and I have not regretted a second of this journey."
+        ]
+      },
+      {
+        "id": "sustainability",
+        "category": "Sustainability",
+        "title": "Sustain yourself first",
+        "paragraphs": [
+          "Sustainability is often discussed as reusing, instead of first preventing waste. Each of us has a different approach. Mine is simple: “If you cannot sustain yourself, it’s unlikely you will sustain the people around you.”",
+          "Your body, mind, surroundings, and especially your time are essential to living sustainably and sharing that practice. The message can take root in your community, reach others, and help create a chain of more sustainable living on our planet."
+        ]
+      },
+      {
+        "id": "secret-diners-story",
+        "category": "Secret Diners",
+        "title": "The menu is a secret",
+        "paragraphs": [
+          "Before opening Mother Cocktail Bar, I dreamed of collaborating with chefs on food-and-cocktail pairings. When that did not go to plan, I started a side project bringing food and cocktails together in culinary events.",
+          "What if guests did not know the menu until they sat down? The mystery made the experience more challenging and personal. That idea gave the series its name: SECRET DINERS.",
+          "After almost 35 events, we brought the dinners to restaurants, bars, and art galleries, collaborating with talented chefs. What began as a joke became one of the projects I am proudest of professionally."
+        ]
+      },
+      {
+        "id": "mother",
+        "category": "Mother Cocktail Bar",
+        "title": "A new wave of cocktail-making",
+        "paragraphs": [
+          "Co-owned by bartender and bar operator Massimo Zitti, Mother Cocktail Bar is on Queen Street West in Toronto. It is a destination for innovative, fermentation-driven cocktails where hospitality meets sustainability and humble guest service. Mother ranked No. 7 on Canada’s Best 100 in 2023 and No. 37 on North America’s 50 Best Bars.",
+          "Mother began in 2019 with like-minded people who believed Toronto needed something new and different. Over time, this small cocktail bar became an internationally recognised destination for a new wave of cocktail-making, avant-garde drink techniques, and flavour discovery.",
+          "What makes Massi proudest is seeing staff and guests enjoy themselves, respect one another during service, and watching talented young professionals grow in their craft.",
+          "Mother has collaborated with Handshake Speakeasy (Mexico City), Overstory (New York), Odd Couple (Shanghai), Passing Fancies (UK), Double Chicken Please, Gokan, Punch Room at Edition Hotel Tokyo, Nutmeg & Clove, and many others.",
+          "Massimo’s milestones: Canada World Class Bartender of the Year (2022); ICCO Best Cocktail Bartender (2023); and Canada’s official World Class Coach (2023 and 2024), leading Canada to win the World Title both years."
+        ]
+      }
+    ],
+    "film": {
+      "eyebrow": "IN MOTION",
+      "titleStart": "The dream,",
+      "titleAccent": "in motion.",
+      "intro": "A place for films from behind the bar, the fermentation process, the people, and the ideas that keep the dream moving.",
+      "portraitEyebrow": "PORTRAITS",
+      "portraitTitle": "The person behind the pour.",
+      "portraitIntro": "Portraits of Massi and the work behind the bar.",
+      "photoOne": "01 · Portrait",
+      "photoTwo": "02 · Behind the bar",
+      "videoPlaceholder": "Video coming soon"
+    },
+    "videos": [
+      {
+        "category": "Cocktail Craft",
+        "title": "Campari Soda",
+        "url": "assets/videos/Campari%20Soda.mp4"
+      },
+      {
+        "category": "Secret Diners",
+        "title": "Secret Diner — Art Gallery",
+        "url": "assets/videos/Main%20Video%20-%20Secret%20Diner%20Art%20Gallary.mp4"
+      },
+      {
+        "category": "Mother Cocktail Bar",
+        "title": "Behind the bar at Mother",
+        "url": "assets/videos/MCB%20cr1.mp4"
+      },
+      {
+        "category": "Cocktail Craft",
+        "title": "Shaking Technique",
+        "url": "assets/videos/Shaking%20Technique.mp4"
+      },
+      {
+        "category": "Founder Story",
+        "title": "4 Books",
+        "url": "assets/videos/4%20Books%20No%20Music.mp4"
+      },
+      {
+        "category": "On the Road",
+        "title": "Puebla Croissant",
+        "url": "assets/videos/r5%20Puebla%20Croissant.mp4"
+      }
+    ],
+    "collaborations": {
+      "eyebrow": "MOTHER COCKTAIL BAR · TORONTO",
+      "title": "A new wave of cocktail-making.",
+      "intro": "Co-owned by Massimo Zitti, Mother began in 2019 on Queen Street West. It is a top-ranked Toronto bar for fermentation-driven cocktails, sustainable hospitality, and humble guest service.",
+      "partners": [
+        "Handshake Speakeasy · Mexico City",
+        "Overstory · New York City",
+        "Odd Couple · Shanghai",
+        "Passing Fancies · United Kingdom",
+        "Double Chicken Please",
+        "Gokan",
+        "Punch Room · Edition Tokyo",
+        "Nutmeg & Clove",
+        "And many others"
+      ],
+      "networkLabel": "A few places we've shared a table with",
+      "ctaLabel": "Find Mother Cocktail Bar",
+      "rankCanada": "No. 7 · Canada’s Best 100 · 2023",
+      "rankNorthAmerica": "No. 37 · North America’s 50 Best Bars"
+    },
+    "diners": {
+      "eyebrow": "SECRET DINERS",
+      "title": "An invitation to the unexpected.",
+      "intro": "An intimate food-and-cocktail experience with a menu revealed only when you arrive.",
+      "sub": "Almost 35 events later, the idea that began as a joke is one of Massi's proudest professional projects. Leave your email to register your interest in future dinners.",
+      "meta": "Toronto · Intimate gatherings · Seasonal invitations",
+      "emailLabel": "Your email address",
+      "submitLabel": "Register interest",
+      "privacy": "Your email is used only for Secret Diners invitations. You can ask to be removed at any time.",
+      "emailPlaceholder": "you@example.com"
+    },
+    "contact": {
+      "eyebrow": "Let's Make Something",
+      "title": "Bring the dream into the room.",
+      "intro": "Whether it's a stage, a launch, a collaboration, or a table that doesn't officially exist — if it's about hospitality done with heart, Massi wants to hear about it.",
+      "signoff": "Pull up a stool. The dream's already pouring.",
+      "instagramLabel": "Follow on Instagram",
+      "instagramDetail": "@thirstydreamer",
+      "motherLabel": "Mother Cocktail Bar",
+      "motherDetail": "Queen Street West · Toronto",
+      "dream": "Don’t ever stop dreaming.",
+      "formTitle": "Tell Massi a little about your idea.",
+      "formIntro": "Share a few details and Massi will follow up using the contact information you provide.",
+      "nameLabel": "Your name",
+      "kindLabel": "What would you like to discuss?",
+      "messageLabel": "A few details about your idea",
+      "consent": "I agree that Massi can use these details to reply to my inquiry.",
+      "submitLabel": "Send inquiry",
+      "bookingCards": [
+        {
+          "title": "Public Speaking",
+          "detail": "Talks, keynotes & panels",
+          "kind": "speaking"
+        },
+        {
+          "title": "Brand Collaboration",
+          "detail": "Sponsored reels & product promo",
+          "kind": "brand"
+        },
+        {
+          "title": "Events",
+          "detail": "Pop-ups, takeovers & activations",
+          "kind": "events"
+        },
+        {
+          "title": "Blog",
+          "detail": "Recipes, features & guest posts",
+          "kind": "blog"
+        },
+        {
+          "title": "Secret Diners",
+          "detail": "Request an invitation",
+          "kind": "secret_diners"
+        },
+        {
+          "title": "Consultation",
+          "detail": "Hospitality & creative direction",
+          "kind": "consultation"
+        }
+      ]
+    },
+    "footer": {
+      "tagline": "Never stop dreaming.",
+      "copyright": "© 2026 Thirsty Dreamer · Massimo Zitti · Toronto",
+      "linkAbout": "About",
+      "linkJournal": "Journal",
+      "linkFilm": "Films",
+      "linkDiners": "Secret Diners",
+      "linkContact": "Contact",
+      "linkAdmin": "Admin",
+      "credit": "Built by Layr Media",
+      "instagram": "Follow Massi on Instagram",
+      "mother": "Find Mother Cocktail Bar"
+    },
+    "portraits": {
+      "one": "assets/images/massi-portrait.png",
+      "two": "assets/images/massi-behind-bar.png"
+    },
+    "navigation": {
+      "about": "Story",
+      "journal": "Stories",
+      "film": "Films",
+      "speaking": "Craft",
+      "mother": "Mother",
+      "diners": "Secret Diners",
+      "contact": "Contact"
+    },
+    "speaking": {
+      "eyebrow": "Book Massi to Teach",
+      "title": "Seminars & Public Speaking",
+      "intro": "A bookable lineup of intimate workshops and talks for brand events, hospitality and private groups. Massi tailors each one to your room, your crowd, and your budget.",
+      "cards": [
+        {
+          "title": "Fermentation",
+          "kicker": "Hands-on Workshop · 90 min · up to 20",
+          "body": "A working session on wild flavour — kombucha, kefir, koji, and the patience they demand. Part science, part philosophy, all delicious. Guests leave with a starter and a new way of thinking about time.",
+          "kind": "speaking"
+        },
+        {
+          "title": "From a Dream to Reality",
+          "kicker": "Founder Talk · 45 min + Q&A",
+          "body": "The honest story of building rooms, bars, and ventures from nothing but an idea and a lot of nerve. For teams and creatives who want the real version — the doubt, the grind, the payoff.",
+          "kind": "speaking"
+        },
+        {
+          "title": "Sustain Yourself First",
+          "kicker": "Hospitality Keynote · 45 min",
+          "body": "Real sustainability in hospitality starts with the people, not the packaging. A candid talk on building careers and kitchens that last — without burning out the humans who run them.",
+          "kind": "speaking"
+        }
+      ],
+      "footer": "Half-day & custom formats available · Travel from Toronto ·",
+      "checkAvailability": "Check availability →"
+    },
+    "social": {
+      "eyebrow": "Already Pouring Online",
+      "title": "Where the dream already lives.",
+      "followers": "41.7K",
+      "handle": "@thirstydreamer",
+      "button": "Follow @thirstydreamer →"
+    },
+    "brand": {
+      "eyebrow": "Sponsored · Co-Shared Brand Content",
+      "title": "Put your bottle in the dream.",
+      "intro": "Massi makes branded content that doesn’t feel like an ad. Spirits, glassware, ingredients, venues — he weaves your product into a story his 41.7K already trust. One reel, filmed and posted from @thirstydreamer, reaching the exact audience that buys what you make.",
+      "subintro": "Work closely with Massi creating tailored brand content that reflects your ethos & brand philosophy.",
+      "reelSponsor": "Pisco Sour · Thirsty Dreamer",
+      "reelViews": "8.2K",
+      "reelComments": "312",
+      "reelLikes": "1.1K",
+      "reelCaption": "Pisco Sour. A little craft, a little creativity, and a perfect pour.",
+      "reelTags": "#piscosour · #cocktails · #thirstydreamer",
+      "steps": [
+        {
+          "title": "You brief the brand",
+          "description": "Tell Massi the product and the story you want told. A spirit launch, a glassware drop, a venue, an ingredient — anything hospitality-adjacent."
+        },
+        {
+          "title": "Together we shape a tailored Reel",
+          "description": "Massi concepts, shoots, and edits a short-form video in his own voice — the craft, the pour, the dream. Filmed at Mother or on location."
+        },
+        {
+          "title": "We post it together for more reach",
+          "description": "The reel goes live on @thirstydreamer to 41.7K engaged followers — plus usage rights so you can run it on your own channels."
+        }
+      ],
+      "typesLabel": "A fit for brands like",
+      "types": [
+        "Spirits & rum",
+        "Glassware",
+        "Bitters & mixers",
+        "Venues & festivals"
+      ],
+      "button": "Start a partnership →",
+      "rate": "Rate cards on request",
+      "reelVideo": "assets/videos/Pisco%20Sour.mp4"
+    }
+  },
+  "links": {
+    "instagram": "https://www.instagram.com/thirstydreamer?stkn=Mm8wbHdtdm85ZTY2",
+    "motherMap": "https://www.google.com/maps/search/?api=1&query=Mother+Cocktail+Bar+Toronto"
+  }
+}
